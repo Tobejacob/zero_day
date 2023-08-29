@@ -1,0 +1,11 @@
+0-hello_ubuntu
+-a
+--a
+-s
+-n
+-r
+-v
+-m
+-p
+-i
+-o
